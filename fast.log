@@ -1,0 +1,380 @@
+06/17/2024-19:28:40.431919  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39840 -> 180.67.148.140:80
+06/17/2024-19:28:40.665564  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39844 -> 180.67.148.140:80
+06/17/2024-19:28:40.899005  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39824 -> 180.67.148.140:80
+06/17/2024-19:28:41.458206  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39840 -> 180.67.148.140:80
+06/17/2024-19:28:41.559176  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39824 -> 180.67.148.140:80
+06/17/2024-19:28:41.587337  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39860 -> 180.67.148.140:80
+06/17/2024-19:28:41.587296  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39878 -> 180.67.148.140:80
+06/17/2024-19:28:41.591162  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39840 -> 180.67.148.140:80
+06/17/2024-19:28:41.597658  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39866 -> 180.67.148.140:80
+06/17/2024-19:28:41.654951  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39868 -> 180.67.148.140:80
+06/17/2024-19:28:41.679286  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39860 -> 180.67.148.140:80
+06/17/2024-19:28:41.689533  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39878 -> 180.67.148.140:80
+06/17/2024-19:28:41.693436  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39824 -> 180.67.148.140:80
+06/17/2024-19:28:41.697375  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39866 -> 180.67.148.140:80
+06/17/2024-19:28:41.726624  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39840 -> 180.67.148.140:80
+06/17/2024-19:28:41.846789  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39860 -> 180.67.148.140:80
+06/17/2024-19:28:41.853766  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39866 -> 180.67.148.140:80
+06/17/2024-19:28:41.873222  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39860 -> 180.67.148.140:80
+06/17/2024-19:28:41.909404  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39860 -> 180.67.148.140:80
+06/17/2024-19:28:41.925286  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39866 -> 180.67.148.140:80
+06/17/2024-19:28:41.926373  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39868 -> 180.67.148.140:80
+06/17/2024-19:28:41.937816  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39860 -> 180.67.148.140:80
+06/17/2024-19:28:41.998625  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39860 -> 180.67.148.140:80
+06/17/2024-19:28:41.998867  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39866 -> 180.67.148.140:80
+06/17/2024-19:28:42.032833  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39860 -> 180.67.148.140:80
+06/17/2024-19:29:12.937195  [**] [1:10001:1] HTTPS gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59976 -> 180.67.148.140:443
+06/17/2024-19:29:12.940563  [**] [1:10001:1] HTTPS gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59968 -> 180.67.148.140:443
+06/17/2024-19:29:12.943788  [**] [1:10001:1] HTTPS gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59954 -> 180.67.148.140:443
+06/17/2024-19:30:12.475839  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:34846 -> 44.234.232.238:443
+06/17/2024-19:30:13.155341  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42070 -> 44.237.234.25:443
+06/17/2024-19:30:19.646552  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:38762 -> 54.189.185.191:443
+06/17/2024-19:30:19.654283  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:38776 -> 54.189.185.191:443
+06/17/2024-19:30:19.655546  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:38768 -> 54.189.185.191:443
+06/17/2024-19:30:19.655830  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:38764 -> 54.189.185.191:443
+06/17/2024-19:30:36.235019  [**] [1:10007:1] HTTPS facebook.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:33864 -> 31.13.76.35:443
+06/17/2024-19:30:36.238451  [**] [1:10007:1] HTTPS facebook.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:33876 -> 31.13.76.35:443
+06/17/2024-19:30:36.405613  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:38668 -> 54.149.176.81:443
+06/17/2024-19:30:36.427855  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:38682 -> 54.149.176.81:443
+06/17/2024-19:30:37.494167  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:32964 -> 142.250.207.100:443
+06/17/2024-19:30:38.121170  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:38606 -> 52.10.208.126:443
+06/17/2024-19:30:45.870737  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42526 -> 44.242.13.161:443
+06/17/2024-19:30:47.785515  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:33704 -> 44.242.131.93:443
+06/17/2024-19:30:48.058113  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:53798 -> 142.250.206.228:443
+06/17/2024-19:31:13.620923  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:34832 -> 44.234.232.238:443
+06/17/2024-19:31:22.539673  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:34842 -> 44.234.232.238:443
+06/17/2024-19:32:00.345507  [**] [1:10009:1] HTTPS youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39072 -> 142.250.207.110:443
+06/17/2024-19:32:00.355384  [**] [1:10009:1] HTTPS youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39064 -> 142.250.207.110:443
+06/17/2024-19:32:00.662301  [**] [1:10009:1] HTTPS youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:55910 -> 172.217.25.174:443
+06/17/2024-19:32:01.769791  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:34128 -> 74.125.204.84:443
+06/17/2024-19:32:02.729232  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:56928 -> 142.250.207.100:443
+06/17/2024-19:32:11.248625  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:38250 -> 172.217.161.206:443
+06/17/2024-19:32:11.254014  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54990 -> 172.217.25.174:443
+06/17/2024-19:32:27.779606  [**] [1:10009:1] HTTPS youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:35274 -> 142.250.198.14:443
+06/17/2024-19:32:39.904330  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59852 -> 180.67.148.140:80
+06/17/2024-19:32:42.155485  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59864 -> 180.67.148.140:80
+06/17/2024-19:32:42.383192  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59852 -> 180.67.148.140:80
+06/17/2024-19:32:42.646708  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59852 -> 180.67.148.140:80
+06/17/2024-19:32:42.789240  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59864 -> 180.67.148.140:80
+06/17/2024-19:32:43.086019  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59852 -> 180.67.148.140:80
+06/17/2024-19:32:43.358654  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59852 -> 180.67.148.140:80
+06/17/2024-19:32:43.495724  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59864 -> 180.67.148.140:80
+06/17/2024-19:32:43.723859  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59852 -> 180.67.148.140:80
+06/17/2024-19:32:43.990664  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59852 -> 180.67.148.140:80
+06/17/2024-19:32:44.132749  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59864 -> 180.67.148.140:80
+06/17/2024-19:32:44.358013  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59852 -> 180.67.148.140:80
+06/17/2024-19:32:44.630753  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59852 -> 180.67.148.140:80
+06/17/2024-19:32:44.787314  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59864 -> 180.67.148.140:80
+06/17/2024-19:32:45.010691  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59852 -> 180.67.148.140:80
+06/17/2024-19:32:45.306909  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59852 -> 180.67.148.140:80
+06/17/2024-19:32:45.523517  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59864 -> 180.67.148.140:80
+06/17/2024-19:32:45.790336  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59852 -> 180.67.148.140:80
+06/17/2024-19:32:46.066781  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59852 -> 180.67.148.140:80
+06/17/2024-19:32:46.229973  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59864 -> 180.67.148.140:80
+06/17/2024-19:32:46.452320  [**] [1:10002:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59852 -> 180.67.148.140:80
+06/17/2024-19:32:46.852417  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54506 -> 44.234.232.238:443
+06/17/2024-19:32:47.454721  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54514 -> 44.234.232.238:443
+06/17/2024-19:32:48.336912  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:58590 -> 35.82.63.100:443
+06/17/2024-19:32:48.338080  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:58582 -> 35.82.63.100:443
+06/17/2024-19:32:50.940578  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:53190 -> 35.82.167.216:443
+06/17/2024-19:32:50.946995  [**] [1:10003:1] HTTPS netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:53174 -> 35.82.167.216:443
+06/17/2024-19:32:51.551116  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:37290 -> 142.250.207.100:443
+06/17/2024-19:33:04.997264  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:45486 -> 142.250.207.46:443
+06/17/2024-19:33:05.000103  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:45470 -> 142.250.207.46:443
+06/17/2024-19:33:05.162647  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:45498 -> 142.250.207.46:443
+06/17/2024-19:33:34.747648  [**] [1:10009:1] HTTPS youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:55342 -> 172.217.161.46:443
+06/17/2024-19:33:35.973360  [**] [1:10009:1] HTTPS youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:55344 -> 172.217.161.46:443
+06/17/2024-19:38:29.973781  [**] [1:10012:1] amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39332 -> 52.94.236.248:80
+06/17/2024-19:38:30.400062  [**] [1:10011:1] HTTPS amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:48094 -> 205.251.242.103:443
+06/17/2024-19:38:30.860560  [**] [1:10011:1] HTTPS amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:33832 -> 54.230.62.214:443
+06/17/2024-19:38:31.332011  [**] [1:10011:1] HTTPS amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:38290 -> 18.64.6.158:443
+06/17/2024-19:38:31.341070  [**] [1:10011:1] HTTPS amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:38278 -> 18.64.6.158:443
+06/17/2024-19:38:31.341630  [**] [1:10011:1] HTTPS amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42686 -> 54.230.168.13:443
+06/17/2024-19:38:31.376965  [**] [1:10011:1] HTTPS amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42700 -> 54.230.168.13:443
+06/17/2024-19:38:31.734609  [**] [1:10011:1] HTTPS amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39502 -> 3.224.78.202:443
+06/17/2024-19:38:34.035168  [**] [1:10011:1] HTTPS amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:40030 -> 52.46.138.21:443
+06/17/2024-19:38:34.096842  [**] [1:10011:1] HTTPS amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:53738 -> 52.46.144.253:443
+06/17/2024-19:38:35.295419  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:55456 -> 180.222.106.12:443
+06/17/2024-19:38:35.304139  [**] [1:10011:1] HTTPS amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:34902 -> 44.215.116.37:443
+06/17/2024-19:38:37.190456  [**] [1:10007:1] HTTPS facebook.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42942 -> 31.13.76.35:443
+06/17/2024-19:38:37.509869  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:55294 -> 18.143.106.89:443
+06/17/2024-19:38:38.242111  [**] [1:10011:1] HTTPS amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:33840 -> 54.230.62.214:443
+06/17/2024-19:38:38.276087  [**] [1:10011:1] HTTPS amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:40044 -> 52.46.138.21:443
+06/17/2024-19:38:38.785001  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:35954 -> 13.228.126.19:443
+06/17/2024-19:38:39.010309  [**] [1:10011:1] HTTPS amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:40050 -> 52.46.138.21:443
+06/17/2024-19:38:44.316313  [**] [1:10011:1] HTTPS amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:58010 -> 67.220.241.5:443
+06/17/2024-19:38:44.316480  [**] [1:10011:1] HTTPS amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:58026 -> 67.220.241.5:443
+06/17/2024-19:38:49.268045  [**] [1:10013:1] HTTPS twitter.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:55714 -> 104.244.42.129:443
+06/17/2024-19:38:49.302456  [**] [1:10013:1] HTTPS twitter.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:55720 -> 104.244.42.129:443
+06/17/2024-19:38:50.135438  [**] [1:10013:1] HTTPS twitter.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39812 -> 104.244.42.194:443
+06/17/2024-19:38:54.413706  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:34404 -> 108.177.97.84:443
+06/17/2024-19:39:00.501219  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59676 -> 142.250.206.206:443
+06/17/2024-19:39:00.511934  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59660 -> 142.250.206.206:443
+06/17/2024-19:39:01.069359  [**] [1:10013:1] HTTPS twitter.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:45942 -> 151.101.40.157:443
+06/17/2024-19:40:30.065687  [**] [1:10015:1] HTTPS instagram.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:34822 -> 172.93.103.101:443
+06/17/2024-19:40:30.067252  [**] [1:10015:1] HTTPS instagram.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:34826 -> 172.93.103.101:443
+06/17/2024-19:40:31.665783  [**] [1:10016:1] instagram.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:37912 -> 199.59.243.226:80
+06/17/2024-19:40:32.024934  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:48128 -> 172.217.25.164:443
+06/17/2024-19:40:32.134960  [**] [1:10016:1] instagram.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:37912 -> 199.59.243.226:80
+06/17/2024-19:40:32.518429  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:48132 -> 172.217.25.164:443
+06/17/2024-19:40:36.291716  [**] [1:10016:1] instagram.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:51472 -> 31.13.76.174:80
+06/17/2024-19:40:36.322246  [**] [1:10015:1] HTTPS instagram.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:40362 -> 31.13.76.174:443
+06/17/2024-19:40:36.692504  [**] [1:10015:1] HTTPS instagram.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:40374 -> 31.13.76.174:443
+06/17/2024-19:40:37.378159  [**] [1:10015:1] HTTPS instagram.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59578 -> 31.13.76.63:443
+06/17/2024-19:40:37.384403  [**] [1:10015:1] HTTPS instagram.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59576 -> 31.13.76.63:443
+06/17/2024-19:40:37.395358  [**] [1:10015:1] HTTPS instagram.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59562 -> 31.13.76.63:443
+06/17/2024-19:40:37.409766  [**] [1:10015:1] HTTPS instagram.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59550 -> 31.13.76.63:443
+06/17/2024-19:40:37.412460  [**] [1:10015:1] HTTPS instagram.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59546 -> 31.13.76.63:443
+06/17/2024-19:40:37.420623  [**] [1:10015:1] HTTPS instagram.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59582 -> 31.13.76.63:443
+06/17/2024-19:40:39.718008  [**] [1:10007:1] HTTPS facebook.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:38538 -> 31.13.76.35:443
+06/17/2024-19:40:46.907250  [**] [1:10015:1] HTTPS instagram.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:48278 -> 103.224.182.246:443
+06/17/2024-19:40:46.907250  [**] [1:10017:1] HTTPS linkedin.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:48278 -> 103.224.182.246:443
+06/17/2024-19:40:46.907966  [**] [1:10015:1] HTTPS instagram.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:48266 -> 103.224.182.246:443
+06/17/2024-19:40:46.907966  [**] [1:10017:1] HTTPS linkedin.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:48266 -> 103.224.182.246:443
+06/17/2024-19:41:01.938068  [**] [1:10018:1] linkedin.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:33444 -> 13.107.42.14:80
+06/17/2024-19:41:02.016307  [**] [1:10017:1] HTTPS linkedin.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59996 -> 13.107.42.14:443
+06/17/2024-19:41:03.269945  [**] [1:10017:1] HTTPS linkedin.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:49566 -> 23.33.33.185:443
+06/17/2024-19:41:03.530431  [**] [1:10017:1] HTTPS linkedin.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:45536 -> 144.2.9.1:443
+06/17/2024-19:41:04.435602  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:46416 -> 64.233.187.84:443
+06/17/2024-19:41:04.443071  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:46420 -> 64.233.187.84:443
+06/17/2024-19:41:14.959733  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59514 -> 142.250.206.238:443
+06/17/2024-19:41:14.966134  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59520 -> 142.250.206.238:443
+06/17/2024-19:41:23.438376  [**] [1:10020:1] wikipedia.org access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:33052 -> 103.102.166.224:80
+06/17/2024-19:41:23.748965  [**] [1:10019:1] HTTPS wikipedia.org access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:47010 -> 103.102.166.224:443
+06/17/2024-19:41:24.093115  [**] [1:10019:1] HTTPS wikipedia.org access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:47012 -> 103.102.166.224:443
+06/17/2024-19:41:24.897982  [**] [1:10019:1] HTTPS wikipedia.org access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:47016 -> 103.102.166.224:443
+06/17/2024-19:41:33.310686  [**] [1:10022:1] reddit.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:40570 -> 151.101.1.140:80
+06/17/2024-19:41:33.374545  [**] [1:10021:1] HTTPS reddit.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:43676 -> 151.101.1.140:443
+06/17/2024-19:41:33.430950  [**] [1:10021:1] HTTPS reddit.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:34134 -> 146.75.49.140:443
+06/17/2024-19:41:35.475784  [**] [1:10021:1] HTTPS reddit.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:34164 -> 146.75.49.140:443
+06/17/2024-19:41:37.208723  [**] [1:10021:1] HTTPS reddit.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:34234 -> 146.75.49.140:443
+06/17/2024-19:41:37.967677  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59076 -> 142.250.206.196:443
+06/17/2024-19:41:38.080659  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:55254 -> 74.125.23.84:443
+06/17/2024-19:41:43.044246  [**] [1:10024:1] pinterest.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:37650 -> 151.101.0.84:80
+06/17/2024-19:41:43.075429  [**] [1:10023:1] HTTPS pinterest.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:49026 -> 151.101.128.84:443
+06/17/2024-19:41:43.174078  [**] [1:10023:1] HTTPS pinterest.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:51932 -> 104.94.216.186:443
+06/17/2024-19:41:45.069669  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39076 -> 142.250.206.206:443
+06/17/2024-19:41:45.752221  [**] [1:10023:1] HTTPS pinterest.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:46822 -> 23.36.220.159:443
+06/17/2024-19:41:46.121643  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:46968 -> 142.251.8.84:443
+06/17/2024-19:41:51.663121  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:37234 -> 172.217.25.164:443
+06/17/2024-19:41:52.382832  [**] [1:10026:1] tumblr.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:48910 -> 192.0.77.40:80
+06/17/2024-19:41:52.602865  [**] [1:10025:1] HTTPS tumblr.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:49352 -> 192.0.77.40:443
+06/17/2024-19:41:53.656583  [**] [1:10025:1] HTTPS tumblr.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:49364 -> 192.0.77.40:443
+06/17/2024-19:41:54.425383  [**] [1:10025:1] HTTPS tumblr.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:49386 -> 192.0.77.40:443
+06/17/2024-19:41:54.426280  [**] [1:10025:1] HTTPS tumblr.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:49378 -> 192.0.77.40:443
+06/17/2024-19:41:54.439659  [**] [1:10025:1] HTTPS tumblr.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:49458 -> 192.0.77.40:443
+06/17/2024-19:41:54.448595  [**] [1:10025:1] HTTPS tumblr.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:49442 -> 192.0.77.40:443
+06/17/2024-19:41:54.457398  [**] [1:10025:1] HTTPS tumblr.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:49428 -> 192.0.77.40:443
+06/17/2024-19:41:54.462475  [**] [1:10025:1] HTTPS tumblr.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:49412 -> 192.0.77.40:443
+06/17/2024-19:41:54.469345  [**] [1:10025:1] HTTPS tumblr.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:49404 -> 192.0.77.40:443
+06/17/2024-19:41:54.475140  [**] [1:10025:1] HTTPS tumblr.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:49398 -> 192.0.77.40:443
+06/17/2024-19:41:54.477858  [**] [1:10025:1] HTTPS tumblr.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:49390 -> 192.0.77.40:443
+06/17/2024-19:41:54.715101  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:55340 -> 142.250.207.110:443
+06/17/2024-19:41:56.092311  [**] [1:10025:1] HTTPS tumblr.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:43170 -> 192.0.77.3:443
+06/17/2024-19:41:57.958509  [**] [1:10025:1] HTTPS tumblr.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:43176 -> 192.0.77.3:443
+06/17/2024-19:42:02.054236  [**] [1:10028:1] ebay.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:36536 -> 23.193.119.212:80
+06/17/2024-19:42:02.565911  [**] [1:10027:1] HTTPS ebay.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:57844 -> 23.193.119.207:443
+06/17/2024-19:42:02.997775  [**] [1:10027:1] HTTPS ebay.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:38272 -> 23.207.177.44:443
+06/17/2024-19:42:04.916354  [**] [1:10027:1] HTTPS ebay.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:37948 -> 23.51.29.169:443
+06/17/2024-19:42:05.387642  [**] [1:10027:1] HTTPS ebay.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:60086 -> 66.211.162.160:443
+06/17/2024-19:42:06.763055  [**] [1:10027:1] HTTPS ebay.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:60842 -> 209.140.141.77:443
+06/17/2024-19:42:07.740828  [**] [1:10027:1] HTTPS ebay.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:57336 -> 209.140.129.56:443
+06/17/2024-19:42:08.784064  [**] [1:10027:1] HTTPS ebay.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:57340 -> 209.140.129.56:443
+06/17/2024-19:42:10.033893  [**] [1:10027:1] HTTPS ebay.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:47998 -> 61.111.58.188:443
+06/17/2024-19:42:10.484062  [**] [1:10030:1] craigslist.org access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:55102 -> 208.82.238.129:80
+06/17/2024-19:42:11.155130  [**] [1:10029:1] HTTPS craigslist.org access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:43166 -> 208.82.238.129:443
+06/17/2024-19:42:12.999307  [**] [1:10029:1] HTTPS craigslist.org access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:38664 -> 208.82.238.145:443
+06/17/2024-19:42:14.299864  [**] [1:10029:1] HTTPS craigslist.org access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:44720 -> 208.82.238.17:443
+06/17/2024-19:42:15.365825  [**] [1:10029:1] HTTPS craigslist.org access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:44144 -> 208.82.238.2:443
+06/17/2024-19:42:16.061407  [**] [1:10029:1] HTTPS craigslist.org access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:38680 -> 208.82.238.145:443
+06/17/2024-19:42:16.385093  [**] [1:10027:1] HTTPS ebay.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:44918 -> 61.111.58.189:443
+06/17/2024-19:42:16.758519  [**] [1:10029:1] HTTPS craigslist.org access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:38690 -> 208.82.238.145:443
+06/17/2024-19:42:17.086515  [**] [1:10029:1] HTTPS craigslist.org access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:38694 -> 208.82.238.145:443
+06/17/2024-19:42:25.842917  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42912 -> 13.107.21.200:80
+06/17/2024-19:42:25.898140  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42914 -> 13.107.21.200:80
+06/17/2024-19:42:26.038215  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42914 -> 13.107.21.200:80
+06/17/2024-19:42:26.052992  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42920 -> 13.107.21.200:80
+06/17/2024-19:42:26.059462  [**] [1:10031:1] HTTPS bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:38614 -> 23.32.241.113:443
+06/17/2024-19:42:26.300497  [**] [1:10031:1] HTTPS bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:38596 -> 23.32.241.113:443
+06/17/2024-19:42:26.303047  [**] [1:10031:1] HTTPS bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:38604 -> 23.32.241.113:443
+06/17/2024-19:42:26.312640  [**] [1:10031:1] HTTPS bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:38592 -> 23.32.241.113:443
+06/17/2024-19:42:26.670244  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42930 -> 13.107.21.200:80
+06/17/2024-19:42:26.747266  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42920 -> 13.107.21.200:80
+06/17/2024-19:42:26.948037  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42930 -> 13.107.21.200:80
+06/17/2024-19:42:27.506277  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42930 -> 13.107.21.200:80
+06/17/2024-19:42:27.512500  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42920 -> 13.107.21.200:80
+06/17/2024-19:42:27.515645  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42942 -> 13.107.21.200:80
+06/17/2024-19:42:27.535750  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42914 -> 13.107.21.200:80
+06/17/2024-19:42:27.652519  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54010 -> 23.53.32.75:80
+06/17/2024-19:42:27.654409  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54036 -> 23.53.32.75:80
+06/17/2024-19:42:27.679309  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54022 -> 23.53.32.75:80
+06/17/2024-19:42:27.696350  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54010 -> 23.53.32.75:80
+06/17/2024-19:42:27.700436  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54042 -> 23.53.32.75:80
+06/17/2024-19:42:27.703994  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54036 -> 23.53.32.75:80
+06/17/2024-19:42:27.736706  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54054 -> 23.53.32.75:80
+06/17/2024-19:42:27.750051  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54024 -> 23.53.32.75:80
+06/17/2024-19:42:27.750608  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54022 -> 23.53.32.75:80
+06/17/2024-19:42:27.766617  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54036 -> 23.53.32.75:80
+06/17/2024-19:42:27.770610  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54042 -> 23.53.32.75:80
+06/17/2024-19:42:27.778793  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54010 -> 23.53.32.75:80
+06/17/2024-19:42:27.860966  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54022 -> 23.53.32.75:80
+06/17/2024-19:42:27.901452  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54054 -> 23.53.32.75:80
+06/17/2024-19:42:27.904944  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54010 -> 23.53.32.75:80
+06/17/2024-19:42:27.919372  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54024 -> 23.53.32.75:80
+06/17/2024-19:42:27.926182  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54042 -> 23.53.32.75:80
+06/17/2024-19:42:27.925107  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42930 -> 13.107.21.200:80
+06/17/2024-19:42:27.927802  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42942 -> 13.107.21.200:80
+06/17/2024-19:42:27.960374  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54036 -> 23.53.32.75:80
+06/17/2024-19:42:27.984159  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42930 -> 13.107.21.200:80
+06/17/2024-19:42:27.990140  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42942 -> 13.107.21.200:80
+06/17/2024-19:42:27.994078  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42920 -> 13.107.21.200:80
+06/17/2024-19:42:27.997367  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42930 -> 13.107.21.200:80
+06/17/2024-19:42:28.005321  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42914 -> 13.107.21.200:80
+06/17/2024-19:42:28.007546  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42942 -> 13.107.21.200:80
+06/17/2024-19:42:28.008267  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42920 -> 13.107.21.200:80
+06/17/2024-19:42:28.012475  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42930 -> 13.107.21.200:80
+06/17/2024-19:42:28.026572  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42942 -> 13.107.21.200:80
+06/17/2024-19:42:28.026745  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42914 -> 13.107.21.200:80
+06/17/2024-19:42:28.030504  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42920 -> 13.107.21.200:80
+06/17/2024-19:42:28.036221  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42970 -> 13.107.21.200:80
+06/17/2024-19:42:28.043058  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42942 -> 13.107.21.200:80
+06/17/2024-19:42:28.045182  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42914 -> 13.107.21.200:80
+06/17/2024-19:42:28.046865  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42920 -> 13.107.21.200:80
+06/17/2024-19:42:28.049458  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42958 -> 13.107.21.200:80
+06/17/2024-19:42:28.052433  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42970 -> 13.107.21.200:80
+06/17/2024-19:42:28.064772  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42930 -> 13.107.21.200:80
+06/17/2024-19:42:28.096846  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54054 -> 23.53.32.75:80
+06/17/2024-19:42:28.102402  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54010 -> 23.53.32.75:80
+06/17/2024-19:42:28.148442  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54022 -> 23.53.32.75:80
+06/17/2024-19:42:28.194612  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42942 -> 13.107.21.200:80
+06/17/2024-19:42:28.217688  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54024 -> 23.53.32.75:80
+06/17/2024-19:42:28.220460  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54042 -> 23.53.32.75:80
+06/17/2024-19:42:28.221091  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42958 -> 13.107.21.200:80
+06/17/2024-19:42:28.246629  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42930 -> 13.107.21.200:80
+06/17/2024-19:42:28.262435  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54036 -> 23.53.32.75:80
+06/17/2024-19:42:28.299205  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54054 -> 23.53.32.75:80
+06/17/2024-19:42:28.311739  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42958 -> 13.107.21.200:80
+06/17/2024-19:42:28.323877  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42920 -> 13.107.21.200:80
+06/17/2024-19:42:28.325991  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42958 -> 13.107.21.200:80
+06/17/2024-19:42:28.330561  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42914 -> 13.107.21.200:80
+06/17/2024-19:42:28.339031  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42920 -> 13.107.21.200:80
+06/17/2024-19:42:28.349120  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54010 -> 23.53.32.75:80
+06/17/2024-19:42:28.369576  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42930 -> 13.107.21.200:80
+06/17/2024-19:42:28.373815  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42942 -> 13.107.21.200:80
+06/17/2024-19:42:28.739500  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42970 -> 13.107.21.200:80
+06/17/2024-19:42:28.802930  [**] [1:10031:1] HTTPS bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54098 -> 13.107.21.200:443
+06/17/2024-19:42:28.854614  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59392 -> 104.18.33.89:80
+06/17/2024-19:42:28.858603  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42920 -> 13.107.21.200:80
+06/17/2024-19:42:28.867921  [**] [1:10035:1] HTTPS live.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:45362 -> 20.190.144.165:443
+06/17/2024-19:42:28.910527  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54022 -> 23.53.32.75:80
+06/17/2024-19:42:28.919978  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54024 -> 23.53.32.75:80
+06/17/2024-19:42:29.045441  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54036 -> 23.53.32.75:80
+06/17/2024-19:42:29.048268  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54042 -> 23.53.32.75:80
+06/17/2024-19:42:29.200890  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42942 -> 13.107.21.200:80
+06/17/2024-19:42:33.028254  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54054 -> 23.53.32.75:80
+06/17/2024-19:42:39.049448  [**] [1:10032:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54010 -> 23.53.32.75:80
+06/17/2024-19:42:41.254412  [**] [1:10034:1] microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:39108 -> 20.231.239.246:80
+06/17/2024-19:42:41.353475  [**] [1:10033:1] HTTPS microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:53384 -> 23.207.174.4:443
+06/17/2024-19:42:42.229404  [**] [1:10033:1] HTTPS microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:60066 -> 61.111.58.55:443
+06/17/2024-19:42:42.236599  [**] [1:10031:1] HTTPS bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:40298 -> 204.79.197.237:443
+06/17/2024-19:42:42.312355  [**] [1:10033:1] HTTPS microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:52958 -> 23.48.113.225:443
+06/17/2024-19:42:42.519822  [**] [1:10033:1] HTTPS microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:57356 -> 13.107.246.74:443
+06/17/2024-19:42:42.534092  [**] [1:10033:1] HTTPS microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:53016 -> 23.48.113.225:443
+06/17/2024-19:42:42.540253  [**] [1:10033:1] HTTPS microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:53000 -> 23.48.113.225:443
+06/17/2024-19:42:42.541643  [**] [1:10033:1] HTTPS microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:52990 -> 23.48.113.225:443
+06/17/2024-19:42:42.543124  [**] [1:10033:1] HTTPS microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:52974 -> 23.48.113.225:443
+06/17/2024-19:42:42.549018  [**] [1:10033:1] HTTPS microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:52968 -> 23.48.113.225:443
+06/17/2024-19:42:43.499382  [**] [1:10033:1] HTTPS microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:53188 -> 20.72.243.62:443
+06/17/2024-19:42:44.335276  [**] [1:10035:1] HTTPS live.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:57952 -> 20.190.163.20:443
+06/17/2024-19:42:44.429306  [**] [1:10033:1] HTTPS microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:53190 -> 20.72.243.62:443
+06/17/2024-19:42:44.658767  [**] [1:10017:1] HTTPS linkedin.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:55210 -> 13.107.42.14:443
+06/17/2024-19:42:44.751383  [**] [1:10033:1] HTTPS microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:56610 -> 51.11.192.49:443
+06/17/2024-19:42:44.761054  [**] [1:10033:1] HTTPS microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:56614 -> 51.11.192.49:443
+06/17/2024-19:42:45.498790  [**] [1:10017:1] HTTPS linkedin.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:55216 -> 13.107.42.14:443
+06/17/2024-19:42:45.507024  [**] [1:10033:1] HTTPS microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:44374 -> 63.140.50.167:443
+06/17/2024-19:42:46.583788  [**] [1:10007:1] HTTPS facebook.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54622 -> 31.13.76.35:443
+06/17/2024-19:42:46.591625  [**] [1:10007:1] HTTPS facebook.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54632 -> 31.13.76.35:443
+06/17/2024-19:42:46.591946  [**] [1:10007:1] HTTPS facebook.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54634 -> 31.13.76.35:443
+06/17/2024-19:42:46.591744  [**] [1:10007:1] HTTPS facebook.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54648 -> 31.13.76.35:443
+06/17/2024-19:42:46.957709  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:48076 -> 142.250.76.132:443
+06/17/2024-19:42:48.934995  [**] [1:10036:1] live.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59216 -> 204.79.197.212:80
+06/17/2024-19:42:49.033376  [**] [1:10035:1] HTTPS live.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:52234 -> 40.99.9.210:443
+06/17/2024-19:42:54.312585  [**] [1:10007:1] HTTPS facebook.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:44314 -> 31.13.76.35:443
+06/17/2024-19:42:54.896792  [**] [1:10033:1] HTTPS microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:57242 -> 20.205.115.81:443
+06/17/2024-19:42:55.261937  [**] [1:10031:1] HTTPS bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42820 -> 13.107.21.237:443
+06/17/2024-19:42:55.735740  [**] [1:10031:1] HTTPS bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42824 -> 13.107.21.237:443
+06/17/2024-19:42:59.503675  [**] [1:10038:1] yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:57484 -> 98.137.11.163:80
+06/17/2024-19:43:00.211199  [**] [1:10017:1] HTTPS linkedin.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:48978 -> 13.107.42.14:443
+06/17/2024-19:43:01.856553  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:47144 -> 98.137.11.163:443
+06/17/2024-19:43:04.587606  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:46900 -> 180.222.106.11:443
+06/17/2024-19:43:05.446995  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:37426 -> 106.10.218.137:443
+06/17/2024-19:43:05.598469  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:45006 -> 106.10.247.0:443
+06/17/2024-19:43:05.667111  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:45008 -> 106.10.247.0:443
+06/17/2024-19:43:06.172960  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:56880 -> 180.222.109.252:443
+06/17/2024-19:43:06.600242  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:49626 -> 152.199.40.143:443
+06/17/2024-19:43:06.725910  [**] [1:10017:1] HTTPS linkedin.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:48984 -> 13.107.42.14:443
+06/17/2024-19:43:07.141052  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:53358 -> 54.255.35.50:443
+06/17/2024-19:43:07.203517  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:53370 -> 54.255.35.50:443
+06/17/2024-19:43:07.529749  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:37012 -> 13.228.126.19:443
+06/17/2024-19:43:07.625159  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:45020 -> 106.10.247.0:443
+06/17/2024-19:43:08.963980  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:41862 -> 106.10.218.155:443
+06/17/2024-19:43:08.975583  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:41848 -> 106.10.218.155:443
+06/17/2024-19:43:09.169140  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:46918 -> 180.222.106.11:443
+06/17/2024-19:43:09.177076  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:46910 -> 180.222.106.11:443
+06/17/2024-19:43:09.358202  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:45468 -> 18.138.4.87:443
+06/17/2024-19:43:09.360340  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:45460 -> 18.138.4.87:443
+06/17/2024-19:43:09.367235  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:45436 -> 18.138.4.87:443
+06/17/2024-19:43:09.388060  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:45496 -> 18.138.4.87:443
+06/17/2024-19:43:09.387666  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:45450 -> 18.138.4.87:443
+06/17/2024-19:43:09.387788  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:45504 -> 18.138.4.87:443
+06/17/2024-19:43:09.387833  [**] [1:10037:1] HTTPS yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:45480 -> 18.138.4.87:443
+06/17/2024-19:43:09.949145  [**] [1:10017:1] HTTPS linkedin.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:41536 -> 23.205.46.151:443
+06/17/2024-19:43:10.177762  [**] [1:10017:1] HTTPS linkedin.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:46080 -> 144.2.9.1:443
+06/17/2024-19:43:10.939186  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:49638 -> 108.177.97.84:443
+06/17/2024-19:43:10.951892  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:49634 -> 108.177.97.84:443
+06/17/2024-19:43:13.087173  [**] [1:10016:1] instagram.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:34110 -> 199.59.243.226:80
+06/17/2024-19:43:13.258011  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:57686 -> 142.250.206.206:443
+06/17/2024-19:43:13.271061  [**] [1:10005:1] HTTPS google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:55766 -> 142.250.206.196:443
+06/17/2024-19:43:13.336627  [**] [1:10016:1] instagram.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:34110 -> 199.59.243.226:80
+06/17/2024-19:43:14.922631  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:58998 -> 110.242.68.66:80
+06/17/2024-19:43:14.970625  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59000 -> 110.242.68.66:80
+06/17/2024-19:43:15.073249  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59002 -> 110.242.68.66:80
+06/17/2024-19:43:15.441055  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:46362 -> 119.63.197.151:80
+06/17/2024-19:43:15.863555  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:46362 -> 119.63.197.151:80
+06/17/2024-19:43:15.907508  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:46364 -> 119.63.197.151:80
+06/17/2024-19:43:15.911742  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:46378 -> 119.63.197.151:80
+06/17/2024-19:43:15.911799  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:46392 -> 119.63.197.151:80
+06/17/2024-19:43:15.923065  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:46396 -> 119.63.197.151:80
+06/17/2024-19:43:15.971058  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59830 -> 125.74.110.38:80
+06/17/2024-19:43:16.050728  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:43736 -> 103.235.47.84:80
+06/17/2024-19:43:16.064428  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:43728 -> 103.235.47.84:80
+06/17/2024-19:43:16.068973  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:43716 -> 103.235.47.84:80
+06/17/2024-19:43:16.628822  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:43716 -> 103.235.47.84:80
+06/17/2024-19:43:16.629092  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:43736 -> 103.235.47.84:80
+06/17/2024-19:43:16.649988  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:43728 -> 103.235.47.84:80
+06/17/2024-19:43:16.681989  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:43736 -> 103.235.47.84:80
+06/17/2024-19:43:16.780064  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:43736 -> 103.235.47.84:80
+06/17/2024-19:43:16.915132  [**] [1:10039:1] HTTPS baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:44748 -> 103.235.47.16:443
+06/17/2024-19:43:16.925395  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:43736 -> 103.235.47.84:80
+06/17/2024-19:43:16.998153  [**] [1:10039:1] HTTPS baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:36650 -> 119.63.197.151:443
+06/17/2024-19:43:17.030055  [**] [1:10039:1] HTTPS baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:36936 -> 119.63.197.139:443
+06/17/2024-19:43:17.038468  [**] [1:10039:1] HTTPS baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:36928 -> 119.63.197.139:443
+06/17/2024-19:43:17.120675  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:43736 -> 103.235.47.84:80
+06/17/2024-19:43:17.130673  [**] [1:10039:1] HTTPS baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:36654 -> 119.63.197.151:443
+06/17/2024-19:43:17.180668  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:43716 -> 103.235.47.84:80
+06/17/2024-19:43:17.238816  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:46364 -> 119.63.197.151:80
+06/17/2024-19:43:17.312341  [**] [1:10039:1] HTTPS baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:60282 -> 39.156.68.81:443
+06/17/2024-19:43:17.357304  [**] [1:10039:1] HTTPS baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:36678 -> 119.63.197.151:443
+06/17/2024-19:43:17.365740  [**] [1:10039:1] HTTPS baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:36664 -> 119.63.197.151:443
+06/17/2024-19:43:17.682718  [**] [1:10039:1] HTTPS baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:36684 -> 119.63.197.151:443
+06/17/2024-19:43:17.830497  [**] [1:10039:1] HTTPS baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:53890 -> 111.225.213.36:443
+06/17/2024-19:43:17.889970  [**] [1:10039:1] HTTPS baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42720 -> 45.113.192.80:443
+06/17/2024-19:43:17.891303  [**] [1:10039:1] HTTPS baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:54092 -> 120.41.32.36:443
+06/17/2024-19:43:17.901679  [**] [1:10039:1] HTTPS baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42734 -> 45.113.192.80:443
+06/17/2024-19:43:17.908611  [**] [1:10039:1] HTTPS baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:42730 -> 45.113.192.80:443
+06/17/2024-19:43:18.020542  [**] [1:10039:1] HTTPS baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:52868 -> 125.74.1.36:443
+06/17/2024-19:43:19.304994  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:46364 -> 119.63.197.151:80
+06/17/2024-19:43:19.448028  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:59830 -> 125.74.110.38:80
+06/17/2024-19:43:19.663486  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:48318 -> 103.235.46.9:80
+06/17/2024-19:43:19.667492  [**] [1:10040:1] baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:43736 -> 103.235.47.84:80
+06/17/2024-19:43:19.692830  [**] [1:10039:1] HTTPS baidu.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.179.134:58804 -> 119.63.197.139:443
